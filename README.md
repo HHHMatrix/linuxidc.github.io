@@ -1,0 +1,2 @@
+# linuxidc.github.io
+MyLinux
